@@ -207,3 +207,11 @@ div > iframe{
     font-family: 'android';
     src: url(fontes/idroid.otf) format('opentype');
 }
+img.QR{
+    padding-left: 40%;
+    width: 15%;
+}
+h3{
+    text-align: center;
+    padding-right: 5%;
+}
